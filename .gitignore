@@ -1,0 +1,28 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+.env
+venv/
+.envrc
+__pycache__/
+*.pyc
+dist/
+build/
+node_modules/
+.idea/
+.vscode/
+
+# Python
+.venv/
+*.egg-info/
+coverage/
+.coverage*
+.pytest_cache/
+
+# OS/Editors
+*.bak
+*.orig
+*.lock
