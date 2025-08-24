@@ -2,7 +2,7 @@
 
 **Contexto/Box:** BlackField  
 **Dificuldade:** Hard/Difícil  
-
+> **Medium:** [Exploração Detalhada](https://medium.com/@andrewsferreira/explorando-blackfield-htb-97de56b5ecab)
 ---
 
 ## Enumeração
